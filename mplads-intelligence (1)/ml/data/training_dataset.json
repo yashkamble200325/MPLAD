@@ -1,0 +1,80 @@
+[
+  {
+    "id": "TRAIN-MH-001",
+    "name": "Construction of Rural Water Supply Pipeline",
+    "district": "Pune",
+    "category": "Drinking Water",
+    "sanctionedAmount": 18.0,
+    "expenditure": 17.2,
+    "physicalProgress": 95,
+    "financialUtilization": 95.5,
+    "delayDays": 0,
+    "isAnomalous": 0,
+    "riskLevel": "LOW"
+  },
+  {
+    "id": "TRAIN-MH-002",
+    "name": "Construction of Primary Health Centre Upgradation",
+    "district": "Pune",
+    "category": "Healthcare",
+    "sanctionedAmount": 22.0,
+    "expenditure": 46.8,
+    "physicalProgress": 60,
+    "financialUtilization": 212.7,
+    "delayDays": 130,
+    "isAnomalous": 1,
+    "riskLevel": "CRITICAL"
+  },
+  {
+    "id": "TRAIN-MH-003",
+    "name": "Asphalt Road Surfacing from NH-48 to Village",
+    "district": "Kolhapur",
+    "category": "Road Development",
+    "sanctionedAmount": 35.0,
+    "expenditure": 34.0,
+    "physicalProgress": 100,
+    "financialUtilization": 97.1,
+    "delayDays": 10,
+    "isAnomalous": 0,
+    "riskLevel": "LOW"
+  },
+  {
+    "id": "TRAIN-MH-004",
+    "name": "Construction of Anganwadi Classroom Building",
+    "district": "Satara",
+    "category": "School Infrastructure",
+    "sanctionedAmount": 15.0,
+    "expenditure": 19.5,
+    "physicalProgress": 45,
+    "financialUtilization": 130.0,
+    "delayDays": 85,
+    "isAnomalous": 1,
+    "riskLevel": "HIGH"
+  },
+  {
+    "id": "TRAIN-MH-005",
+    "name": "Installation of High-Mast Solar Street Lights",
+    "district": "Nagpur",
+    "category": "Street Lighting",
+    "sanctionedAmount": 8.0,
+    "expenditure": 7.8,
+    "physicalProgress": 100,
+    "financialUtilization": 97.5,
+    "delayDays": 0,
+    "isAnomalous": 0,
+    "riskLevel": "LOW"
+  },
+  {
+    "id": "TRAIN-MH-006",
+    "name": "Construction of Samaj Mandir Community Hall",
+    "district": "Thane",
+    "category": "Community Hall",
+    "sanctionedAmount": 20.0,
+    "expenditure": 24.2,
+    "physicalProgress": 70,
+    "financialUtilization": 121.0,
+    "delayDays": 45,
+    "isAnomalous": 0,
+    "riskLevel": "MEDIUM"
+  }
+]
